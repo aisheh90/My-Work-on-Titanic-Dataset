@@ -12,7 +12,7 @@ Data processing steps are the same in the two notebooks with referring to [2-3].
     - Voting 5 models ... 0.76555
     - Voting all models ... 0.79425
     
-    So, voting from all models had the best score!
+    So, voting from all models had the best score.
 
 - **Results of 'train_valid_test.ipynb'(Kaggle Test Results):**
   - DT2 ... 0.74162
@@ -24,9 +24,9 @@ Data processing steps are the same in the two notebooks with referring to [2-3].
  
     So, Random Forest had the best score anmong the two notebooks.
 
-References:
-[1] https://www.kaggle.com/c/titanic
-[2] https://www.kaggle.com/sinakhorami/titanic-best-working-classifier
-[3] https://www.kaggle.com/startupsci/titanic-data-science-solutions
+**References:**
+- [1] https://www.kaggle.com/c/titanic
+- [2] https://www.kaggle.com/sinakhorami/titanic-best-working-classifier
+- [3] https://www.kaggle.com/startupsci/titanic-data-science-solutions
 
 
